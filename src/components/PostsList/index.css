@@ -1,0 +1,9 @@
+.postsList {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    border: 1px solid gray;
+    padding: 0 2vw;
+    width: 50vw;
+    height: 600px
+}
